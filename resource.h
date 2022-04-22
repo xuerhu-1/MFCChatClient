@@ -14,6 +14,7 @@
 #define IDC_SEND_EDIT                   1005
 #define IDC_POPRT_EDIT                  1006
 #define IDC_COLOR_COMBO                 1007
+#define IDC_LIST1                       1008
 #define IDC_LIST                        1008
 #define IDC_AUTOSEND_RADIO              1009
 #define IDC_IPADDRESS                   1010
